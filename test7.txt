@@ -1,0 +1,8 @@
+#FFFFFF
+true
+#000000
+true
+#FF0000
+true
+#2E9AFE
+true

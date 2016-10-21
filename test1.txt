@@ -1,0 +1,4 @@
+*this is italic*
+<em>this is italic</em>
+**bold text (not italic)**
+**bold text (not italic)**
